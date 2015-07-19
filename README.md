@@ -1,6 +1,8 @@
 Phundament 4
 ============
 
+[![Join the chat at https://gitter.im/cornernote/app](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cornernote/app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Please note: This is a `beta` [version](version).
 
 Phundament is a 12factor PHP application template for Yii Framework 2.0.
